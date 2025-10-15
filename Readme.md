@@ -87,11 +87,11 @@
 
 ## 게임 기본 설명
 
-<img src="https://github.com/SuyeonSun/test/assets/77823761/e071de34-8f75-4460-82fa-6c191ba6877a" width="500" height="300">
-<img src="https://github.com/SuyeonSun/test/assets/77823761/c1cc3cbc-b48b-47d2-8268-9edff1e099a6" width="500" height="300">
-<img src="https://github.com/SuyeonSun/test/assets/77823761/ac09adf1-3753-411e-8994-c66f99794a61" width="500" height="300">
-<img src="https://github.com/SuyeonSun/test/assets/77823761/5e0e6359-b10e-43a3-92f5-fc74ace35428" width="500" height="300">
-<img src="https://github.com/SuyeonSun/test/assets/77823761/dd48c377-87b9-40e3-8a59-f0ae33dcca0e" width="500" height="300">
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/08b8b342-1cb4-445f-bdbb-8106fed03f99" />
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/613f8fc7-45b0-4ab6-b413-748185e5e978" />
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/a7cd29bd-e25f-4e38-9b91-d006229228e1" />
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/3c58ed0d-1376-474c-b563-97366274155c" />
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/812225f4-1cd3-4496-8214-b2d431d4845a" />
 
 ## 특별 기능
 
@@ -115,9 +115,9 @@
 
 # **Ⅳ. 프로젝트 진행**
 
-![image](https://github.com/SuyeonSun/test/assets/77823761/460afdb8-86b3-4505-9707-dfaa94881010)
+<img width="1553" height="430" alt="image" src="https://github.com/user-attachments/assets/7aef4cc9-f764-4878-ace7-ba8cfa5bb113" />
 
-![image](https://github.com/SuyeonSun/test/assets/77823761/94b9a621-323b-4455-9a92-ed6f1c65ef3f)
+<img width="1552" height="570" alt="image" src="https://github.com/user-attachments/assets/e4457985-8c5c-4a2a-870a-a47a9c69a679" />
 
 - Git
     - Git Flow
@@ -156,8 +156,7 @@
         - 담당자와 스토리 포인트를 설정하고 개발하여 자원 관리 및 추적에 원활하게 구성했습니다.
 - Notion
     - 자료 공유 방법
-
-      ![image](https://github.com/SuyeonSun/test/assets/77823761/8755954a-a232-43a5-961c-ff4e84d325e5)
+    <img width="1801" height="811" alt="image" src="https://github.com/user-attachments/assets/fb4f0fa2-0892-49dc-87f5-64862d862d58" />
 
     - 모두가 공유해야할 자료 및 링크는 노션에 정리했습니다. 특히`userflow`나`api 명세`와 같이 여러번 다시 봐야하고 중요한 정보들은 특히 노션에 공유하여 불필요한 커뮤니케이션 리소스를 줄이기 위해
       노력했습니다.
@@ -165,10 +164,10 @@
     - 매일 아침 각자 할 일과 어제 한일을 공유하는 스크럼을 진행했습니다. 스크럼을 통해 프로젝트의 진행 상황을 파악하고, 발생한 문제를 공유하며 애자일하게 프로젝트를 진행했습니다.
 - Figma
     - Figma를 사용하여 화면 설계 진행했습니다.
-      ![image](https://github.com/SuyeonSun/test/assets/77823761/c6b9e542-bb20-40f7-abfb-4507131fbbdb)
+      <img width="726" height="789" alt="image" src="https://github.com/user-attachments/assets/55c1b238-4066-4179-80a5-014c3fbcff7d" />
 
 - ERD
-  ![image](https://github.com/SuyeonSun/test/assets/77823761/729c7d0f-a406-45c7-a7b8-5d4e383bebc7)
+  <img width="2000" height="1137" alt="image" src="https://github.com/user-attachments/assets/cc43f095-26b5-4594-84b5-9326566929f7" />
 
 # **Ⅴ. 배포**
 
@@ -181,7 +180,7 @@
 - Memory: 16GB
 - Disk: 320GB SSD
 - Traffic: 6TB
-  ![image](https://github.com/SuyeonSun/test/assets/77823761/ca50b238-afe4-4534-bba0-12994e2507ce)
+  <img width="7680" height="4320" alt="image" src="https://github.com/user-attachments/assets/2f918cd2-2c56-4769-9d1e-24244bc12296" />
 
 ## 1. Docker
 
@@ -228,9 +227,9 @@
 
 - **WireFrame**
 
-  <img src="https://github.com/SuyeonSun/test/assets/77823761/8661b086-98c0-4819-8035-c3e1fcbe73c8" width="200" height="120">
-  <img src="https://github.com/SuyeonSun/test/assets/77823761/d7fd3b42-6d69-4fc8-afe4-f7de92e86c3c" width="200" height="120">
-  <img src="https://github.com/SuyeonSun/test/assets/77823761/8a82b8b6-6e6a-4ad4-bb47-94cd8bb28d04" width="200" height="120">
+  <img width="1332" height="748" alt="image" src="https://github.com/user-attachments/assets/ad8a785f-a1bb-47ea-82c3-802b35b3a852" />
+  <img width="1332" height="748" alt="image" src="https://github.com/user-attachments/assets/3a63bd70-6c47-44f5-8467-cbc2ec9d2fe3" />
+  <img width="1332" height="748" alt="image" src="https://github.com/user-attachments/assets/c8042ea9-9114-4ac3-8563-adee1775a4c5" />
 
 ## Logic Flow
 
