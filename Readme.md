@@ -164,7 +164,7 @@
     - 매일 아침 각자 할 일과 어제 한일을 공유하는 스크럼을 진행했습니다. 스크럼을 통해 프로젝트의 진행 상황을 파악하고, 발생한 문제를 공유하며 애자일하게 프로젝트를 진행했습니다.
 - Figma
     - Figma를 사용하여 화면 설계 진행했습니다.
-      <img width="726" height="789" alt="image" src="https://github.com/user-attachments/assets/55c1b238-4066-4179-80a5-014c3fbcff7d" />
+  <img width="500" height="540" alt="image" src="https://github.com/user-attachments/assets/55c1b238-4066-4179-80a5-014c3fbcff7d" />
 
 - ERD
   <img width="2000" height="1137" alt="image" src="https://github.com/user-attachments/assets/cc43f095-26b5-4594-84b5-9326566929f7" />
@@ -227,9 +227,9 @@
 
 - **WireFrame**
 
-  <img width="1332" height="748" alt="image" src="https://github.com/user-attachments/assets/ad8a785f-a1bb-47ea-82c3-802b35b3a852" />
-  <img width="1332" height="748" alt="image" src="https://github.com/user-attachments/assets/3a63bd70-6c47-44f5-8467-cbc2ec9d2fe3" />
-  <img width="1332" height="748" alt="image" src="https://github.com/user-attachments/assets/c8042ea9-9114-4ac3-8563-adee1775a4c5" />
+  <img width="200" height="120" alt="image" src="https://github.com/user-attachments/assets/ad8a785f-a1bb-47ea-82c3-802b35b3a852" />
+  <img width="200" height="120" alt="image" src="https://github.com/user-attachments/assets/3a63bd70-6c47-44f5-8467-cbc2ec9d2fe3" />
+  <img width="200" height="120" alt="image" src="https://github.com/user-attachments/assets/c8042ea9-9114-4ac3-8563-adee1775a4c5" />
 
 ## Logic Flow
 
@@ -270,4 +270,4 @@
     - 레어, 다이아, 플래티넘, 골드, 실버, 브론즈 등의 티어 디자인
         - 예시
 
-      <img src="https://github.com/SuyeonSun/test/assets/77823761/6b7fa029-16f0-42b6-9e71-56a7360840d8" width="100" height="100">
+      <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/cd717038-74f7-4524-971d-8fb2f5cff46f" />
